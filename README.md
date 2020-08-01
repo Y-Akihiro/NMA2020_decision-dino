@@ -3,4 +3,4 @@
 
 * [WaveMetrics.com smoothing algorithm intro](https://www.wavemetrics.com/products/igorpro/dataanalysis/signalprocessing/smoothing)
 
-![](images/decision_dino_logo.png){:height="50%" width="50%"}
+<img src="https://github.com/Y-Akihiro/NMA2020_decision-dino/tree/master/images/decision_dino_logo.png" width="80">
