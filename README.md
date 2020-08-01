@@ -3,4 +3,4 @@
 
 * [WaveMetrics.com smoothing algorithm intro](https://www.wavemetrics.com/products/igorpro/dataanalysis/signalprocessing/smoothing)
 
-![](images/decision_dino_logo.png)
+![](images/decision_dino_logo.png){:height="50%" width="50%"}
