@@ -1,4 +1,6 @@
 # NMA 2020 Decision-Dino
+Repository for the group project in Neuromatch Academy 2020 (online school for Computational Neuroscience).
+ 
 ## pod-110 phenomenal oarfish
 
 <img src="images/decision_dino_logo.png" width="300">
